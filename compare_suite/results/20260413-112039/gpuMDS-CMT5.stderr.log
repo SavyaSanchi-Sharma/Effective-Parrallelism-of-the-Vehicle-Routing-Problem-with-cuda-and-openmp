@@ -1,0 +1,1 @@
+/home/guy_who_likes_to_code/github/Effective-Parrallelism-of-the-Vehicle-Routing-Problem-with-cuda-and-openmp/compare_suite/inputs/CMT5.vrp Cost 1782.51 1629.31 1499.12 Time(seconds) 0.0841319 0.150796 0.152385 batch 1024 block 256 VALID

@@ -1,0 +1,1 @@
+/home/guy_who_likes_to_code/github/Effective-Parrallelism-of-the-Vehicle-Routing-Problem-with-cuda-and-openmp/compare_suite/inputs/Antwerp1.vrp Cost 554377 547869 516885 Time(seconds) 0.862385 2.96407 2.96694 nthreads 16 batch 1024 block 256 VALID

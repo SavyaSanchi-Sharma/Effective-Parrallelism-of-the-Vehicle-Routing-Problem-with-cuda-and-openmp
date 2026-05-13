@@ -1,0 +1,1 @@
+/home/guy_who_likes_to_code/github/Effective-Parrallelism-of-the-Vehicle-Routing-Problem-with-cuda-and-openmp/compare_suite/inputs/X-n1001-k43.vrp Cost 90707 87415 81038 Time(seconds) 0.183771 0.64975 0.67105 batch 1024 block 256 VALID
